@@ -23,6 +23,12 @@ body{
   width: 100%;
   display: block;
 }
+#logo_link{
+  padding-top: 5px;
+  padding-top: 5px;
+  justify-self: center;
+  align-self: center;
+}
 .topnav a:hover{
   background-color:black;
   color:#D9DCD6;
